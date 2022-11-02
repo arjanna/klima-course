@@ -3,4 +3,5 @@
 ./*/*.png
 ./*/*.tex
 ./*/*.jp*g
-*.nc
+wrf.nc
+exp*.nc
